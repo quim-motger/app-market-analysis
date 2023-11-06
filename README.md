@@ -74,7 +74,7 @@ Event-based metrics can then be used to compute review-based metric correlation.
 
 8. Compute correlation.
 
-````python ./scripts/compute_correlation.py -i results/metrics/event_monitoring.xlsx -w 1 -o results/correlation/clusters.csv``
+```python ./scripts/compute_correlation.py -i results/metrics/event_monitoring.xlsx -w 1 -o results/correlation/clusters.csv```
 
 ### Potentially correlated events
 
