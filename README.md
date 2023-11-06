@@ -17,15 +17,15 @@ We selected a subset of microblogging apps which included Twitter, Mastodon, and
 | App name                                       	| App package 					| #reviews 	|
 |------------------------------------------------	|-------------					|----------	|
 | Twitter	            							|com.twitter.android			|168,335	|
-| Mastodon          								|org.joinmastodon.android   	|1,441		|
-| GETTR                      						|com.gettr.gettr            	|2,592		|
 | Truth Social 										|com.truthsocial.android.app    |4,580		|
-| CounterSocial         							|counter.social.android         |252		|
-| Bluesky 	                  						|xyz.blueskyweb.app             |625		|
-| Minds                     						|com.minds.mobile            	|423		|
 | VK                  								|com.vkontakte.android			|3,677		|
 | Hive Social    									|org.hiveinc.TheHive.android	|3,054		|
+| GETTR                      						|com.gettr.gettr            	|2,592		|
 | MeWe                             					|com.mewe             			|2,660		|
+| Mastodon          								|org.joinmastodon.android   	|1,441		|
+| Bluesky 	                  						|xyz.blueskyweb.app             |625		|
+| Minds                     						|com.minds.mobile            	|423		|
+| CounterSocial         							|counter.social.android         |252		|
 
 The complete data set of reviews is available at ```data/microblogging-review-set.json```.
 
