@@ -1,0 +1,52 @@
+"Tried to sign up. Then, the app said i was blocked on this device for suspicious activity. I tried once, and it said that. Ok. Won't use it then."
+"Unfortunately can't create an account right now. Seems reviews were right about it being broken on android, surprised they've not fixed that yet. Idk how that makes me feel about the potential future of this app but I want to remain positive 😅 Obviously it's hard to review something positively though when I can't even do the basic action of creating an account lol"
+"I don't understand what I'm supposed to do. I can't add a profile pic. I can't contact for help because when I got the blue button, there's no field to type or anything. Nothing seems to work. Totally broken for Android pixel 6."
+"Doesn't function. Can't upload media on Android, slow AF, no web portal..."
+"setup on Android is wonky at best, unusable at worst. Is it that hard?"
+UI looks clean setting up the account was a breeze but can't see my photo gallery at all. It is just a blank page. Will 100% update the review when it gets patched.
+"Doesnt work on Android Google Pixel 6, unable to add profile images, very long loading times on feeds and pretty much unusable at the moment."
+"The second I created an account I was hit with, ""We have blocked all requests from this device due to unusual activity. Try again later."" And there is nothing I can do. What a waste."
+"App keeps crashing on my phone, which is an android, please fix the crashing issue or make it available to use on PC"
+"Sadly it won't let me upload anything from my photo or video gallery,(screen is just blank white) and I cannot access it on PC either. So I only can use my camera directly or post text only posts."
+how is every single username i try already taken? it never allows me past this part so i still do not have an account
+"It is a new app so there are glitches. I asked how to upload a profile pic, still not able to do it unless I take a photo. Long way to go but looks promising."
+"So buggy and poorly developed you can't even make an account. Tried different emails, different passwords, etc with no luck, 'next' button in account creation is just greyed out."
+Doesnt work on android
+"Can't upload photos from my gallery. Uninstalled a few times, given permissions, etc. Still nothing. Can take new pictures to upload, but that's not very useful."
+can't even sign up???
+"Not sure if it's just because it's beta.....but on a Google pixel phone, it doesn't let you post or change profile picture.....so the app is pointless at the moment !"
+"Multiple bugs, puns intended! Not able to browse gallery to add profile pics, banner, share pics. Notification doesn't open to what it was notifying for. Sending a gif message overwrote/deleted the prior written text of the message instead of either sending and maintaining previous text or adding to the text to send together."
+I can't even create an account from my android
+"First blocking device because of ""suspicious activity"" because I was travelling with 4G internet while trying to create an account. Now I can't even try to login because the account already exist but if I log in ""something went wrong on our end, try again""."
+Doesn't work on Android
+Every username I type it says taken. Not good at all. I tried like 20 different usernames (probably 15) and all of them were taken. Why can we not use . _ or any other for our usernames. I downloaded it today and I didn't like it at all. :( wasn't worth it for me.
+"Extremely slow and sluggish on a S22+. Trying to edit avatar, banner or upload a photo but the app just shows a black screen and can't find any photos etc on the phone. Pretty much useless as of now."
+"Can't sign up. Keep getting an error about it blocking requests and to try again later. If that's the first impression, there won't be a later. If I am going to be trying to bring people over, they won't be able to join. I would look elsewhere. This isn't it."
+Can't sign up. App get blocked from sending email for verification purpose. Can't sign in or click button to send verification email because I opted going back to the previous screen. Can't create account. Can't use anything.
+"Not even working, while signing up it said that I cannot do that because of unusual activity, and I should try again later, I tried again later with exactly the same email address and it said that it's already taken, so I tried to log in but I had an error without any explanation so after all my email is taken but in the same time the account on it is not even working, I wanted to describe it more precisely but google gave me only 500 characters to use"
+"I cant log in. It always says, ""sign up"" i am logging in not signing up."
+"Slow, buggy, freezes often, search function doesn't work, won't find people I know are there. Very frustrating experience."
+You suck!!!all my entered USERNAME already existed..like what the!!! Does it mean i have a million dummy name
+isn't compatible with android/pixel
+"I can't sign up, I've tried phone number and email. the ""next"" buttons are greyed out even when I meet the requirements to move on."
+"Unable to change profile picture/cover picture. News feed doesn't load. I've seen that everything works fine on iOS so I'm assuming that this is an android issue. I'll remain on Twitter for now, despite Elon running it into the ground."
+"Can't browse my files for a cover or profile picture and if I try an use the in app camera to take a picture, the app crashes. This is an iOS app trying to capitalize on the current situation. Also, mobile only apps are bad form."
+The app keeps crashing every time I try to open it. It's frustrating.
+"Im stuck in creating a username, all the names or any letters i use, it says that the username is already used. Even the numbers or any gibberish words. Even my own name and own last name is not working. Please help me."
+Poor experience so far. App doesn't see photos and/or videos on the device so you can't even update your profile or post anything apart from text only updates.
+App keeps closing at random intervals. Unable to even compleye my own profile. Search function is literally unusable as well. Unstable to use atm. Ill keep checking on it to see if the crew fixes it.
+"Can't register (using Andriod). It seems that all usernames are ""already taken"". I tried a completely random combination of numbers and letters and it was still counted as ""already registered""."
+"I don't know what's up with this app but as soon as I registered and started customizing my profile, it made my phone INCREDIBLY slow. My system UI crashed and it was really hard to make it respond so I could restart the phone entirely. Now my phone seems to be fine but I haven't opened the app since restarting it. That was terrible. Sad because the app seems promising"
+"Couldn't even make an account. It blocked my phone due to ""unusual activity"". Odd considering the device is 3 days old"
+Cannot access any pictures on my phone.
+"Usernames already taken by inactive accounts, sign up bugging out when using email (infinite d.o.b popups), followed by not being able to login but also not being able to use the same email, can't use special characters in username yet there's many that do, reporting accounts goes through mail instead of in-app."
+Trash app can't do anything without the app freezing or crashing and when it does finally work it takes forever to load
+"It's very cute, but I am unable to post photos or change my profile photo and banner without taking a photo in the app, which kind of defeats the purpose of posting digital art like I make."
+App keeps crashing. Hope it will improve.
+keeps crashing after a few minutes
+I can't even select images
+Terrible app. So censored it becomes a collection of just stock photos.
+Trying to set up a hive account using my Google email and the app blocked my set up on the verification stage. Lame. 🐎 💩!
+"Can't even sign in and actually USE this app because every username I typed out says ""username already taken"" PLEASE FIX THIS, IT'S SO ANNOYING!"
+
+Identify and summarize the most significant event raised by this set of reviews extracted from mobile app repositories.

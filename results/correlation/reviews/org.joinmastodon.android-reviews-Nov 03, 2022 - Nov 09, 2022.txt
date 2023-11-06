@@ -1,0 +1,52 @@
+"Not easy to use. Also, I'm center independent and this place is obviously a echo chamber safe space for woke activists. Boring."
+Great
+Liked the idea but the verification email never arrived so I can not use.
+Stuck on email verification. Weird registration process.
+New to this service but had no problems signing up choosing a server is a bit confusing but that said once set up works fine only 4* as it's new and needs time to developer thanks devs & server operators look forward to seeing where this goes. (Rember it's new give it a chance)
+"It took 24 hours to recive the confirmation email. The link opens in your browser and there is no way to get the app to leave the ""confirm your email"" page, the only way I can think of is uninstalling the app Edit: I tried reinstalling and it worked. However connecting to a server to log in took so long I got a timeout error 0/10 would not recommend"
+I can't even sign up. When I sign up I got 403!
+"Mastodon is a great service doing good for the world. The app could use some improvements in UX and especially on the onboarding experience for new users. There's a long way to go, but, luckily there's a strong foundation to build off of"
+I chose an lgbtq server in koren o thought its gonna translate to english but the caothca is in english how the hell can I verify my accounr lol and it doesnt allow me to chabge servers
+Tried to sign up but the process is pethatic not receiving confirmation email can't go out of screen yaak
+"I tried to join and never got the confirmation email, no matter how many times I asked. Maybe because I own my own domain name? Also, would be nice if you show a preview of password entry or double enter it."
+Mastodon best app realy 100% good twitter bad bad
+"Early days, a few glitches, enjoying the learning curve. No adds big plus."
+"Me he bajado la aplicación y el primer intento de registrarme me daba un error (403) sin más explicación; la he desinstalado y reinstalado. Me ha dejado registrarme, pero no me deja iniciar sesión porque no me llega el mensaje para confirmar mi dirección de correo. Cambiaré mi opinión cuando pueda usar la aplicación."
+I have tried repeatedly to open my account. After requesting the email 15 times I never received one. It said my account was set but will not allow me to sign in. Very disappointed so far.
+"I just made an account on the website and now I'm trying to log into the app but every time I click ""log in"" it tries to load for a few seconds and then says ""time out"""
+What they say is true: the user experience is awful. Spent about 5 min to find a server (?) that suited me in any way. No sucess. Uninstalled app.
+Needs a lot more features.
+"Has connection issues, will not load at times, took 20 mins to sign up and couldn't authenticate correctly"
+No idea how to even get past the first page of signing up... Next. This seems to be a common complaint in the ratings yet zero input from the developers on how to enter their app successfully. Make is user friendly plz.
+Ok
+"Getting there, pretty much just Twitter without Elon"
+"Uninteresting design, gatekeeps you from using the app. Cute front page quickly turns into pages and pages of incomprehensible lists. Uninspired community themes, titles and looks. Could be better, seems like it is a 4chan or 8chan replacement, not very good. Cringe worthy at best."
+You haven't fixed the password reset issue since December last year!
+I can't find a list of what I favourited/liked in the app?
+Lol Elon musk sent his Twitter box to download this app I haven't even used it yet and that's all I need to download this f Elon musk
+Great app - perfect alternative to Twitter.
+"Can't even log in. When I open it, both buttons take me to server selection page and I can't get to my account"
+Email confirmation doesn't work
+Twitter rip off
+"I downloaded and installed Mastodon, but it's not working. After I created my account, it said, ""Click on the link we sent you to verify your account."" Well, I tried and it didn't show up in my e-mail."
+Has potential but needs more users
+"Useless. Can't do anything because every time I try to search for someone or follow someone it times out. Hoping it's a temporary thing with so many migrating over from Twitter, but for now it's trash."
+Una basura
+"Unable to sign up. I have entered all the details and clicked to submit but it isn't getting past this screen. No error showing and I have tried changing the password, username etc but no success. Not a good start."
+I don't like Elon musk
+I have myself logged in via the website. On pc. But it refuses to let me login in via your app because it says my info is invalid.
+Junk app. Can't even register because they say my e-mail is already registered. Nothing I can do. Terrible.
+"Can't create account, server issues could be preventing signups from being done. Was hoping for an alternative to musk and his destruction of Twitter. Will try creating a account in the future once things are smoothed out."
+Hit a brick wall. Entered details only for it to show a message of 'too many requests '
+Can't get in. The registration captcha is in Korean and I have no idea why 😂
+"Buggy, slow, need a hell of a lot of work"
+"The app works great. It's a bit frustrating that most servers are overloaded, but it's expected due to the crazy influx of new users"
+"I'm new to Mastodon. Signing up is awfully confusing, I can't imagine many normal users will put up with it. The app is stuck on the ""We're waiting for you to confirm your email!"" screen with absolutely no way to leave. I tried clicking the link in the email, it doesn't work. Force-stopping the app doesn't work. I don't even want to sign up for that server anymore but there is no way to back out. Guess I'm done with Mastodon."
+Really having trouble to actually see things in the app. I really tried and got myself in some servers but i can only acces the account settings in the browser. Please help. I really wanted to use the app.
+"Tried to join it's disjointed and refuses to accept anything! A few goes and boredom set in! FYI Web pro, sites servers, design etc. 29 years mmm! not that it makes any excuse for my inability to use it!"
+"I'll give it 5 stars because I absolutely love how calming it is to scroll through. Maybe because I'm in one of the calming instances but I still enjoy it. The app itself was very simple and easy to explore, not too hard to learn! I got a hang of it on my first day of trying out the app. I do have a little problem with uploading images through the app but I'm sure you guys, gals, and theythems should be able to fix it! Love mastodon, thanks for existing!"
+"Works great in all regards, and the community is growing explosively! Is there the capability to specify which language a post in written, like on the web version?"
+"Can anybody understand how to register??? I tried with different names and passwords, doesn't work, just says ""403"" or ""forbidden"" No explanation, nothing..."
+"Don't know if it's any good as it won't send email verification when setting up an account. Looking through other reviews and it's obvious that the support teams don't like replying to users. Mastodon, you should remember that users are your bread and butter. Without users, you have nothing."
+
+Identify and summarize the most significant event raised by this set of reviews extracted from mobile app repositories.

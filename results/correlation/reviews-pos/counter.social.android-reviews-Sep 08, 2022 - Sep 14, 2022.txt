@@ -1,0 +1,11 @@
+"No bots, no trolls, good place to be, respectful to others. Safe environment."
+"Quite frankly, the one problem the site has is that not enough people have joined it and left Twitter. Will you be the next one?"
+"I've been on CounterSocial since very close to the beginning and have never had one concern about security or algorithms. People who spread misinformation, disinformation or hate are banned immediately. If you report, you get action. Really great community that is actually social. My only active social media."
+"Imagine Twitter, but instead of 70% trolls it's less than 5%. Seriously."
+"Counter Social is a refreshing new idea for social media. Intelligent conversation, exchange of ideas and humor. Try it!"
+Best Social Network ever.
+"The app does it's job of being a mobile portal to one of the best communities on the interwebs. It isn't as fully featured as the desktop experience, but it works well. ""Five stars. Joe Bob says check it out"" -JBB didn't say this, but might."
+"I've had CoSo for 5 months now and I love it! It's far less toxic than other social media apps, the interactive setup is user-friendly and allows you to decide whether you want to read everyone's posts or to personalize your feed, and the lack of trolling, bullying, and abusive language is refreshing. It's nice to have a social media app that's relatively drama-free and friendly instead of being constantly assaulted by negativity, hate speech, and conspiracy theories. I highly recommend it."
+"Although you get all the bells and whistles on the desktop, I find that the Android app does in a trice. And, of course, the people on the site are all awesome and make the experience much more pleasurable."
+
+Identify and summarize the most significant event raised by this set of reviews extracted from mobile app repositories.

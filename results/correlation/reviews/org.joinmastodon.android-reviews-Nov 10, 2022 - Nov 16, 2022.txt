@@ -1,0 +1,52 @@
+Where's the Federated feed???
+"So far so good. Missing a few features as others have said, but pretty solid otherwise."
+not user friendly. You have to jump through a lot of hoops to use this app...i have tried it repeatedly over the years and just cant make myself like it. no smooth flow. Its will get a following..but never be for most people. i choose to have no social media over this ( all the mainstream apps are not even an option 🤮)
+Nice design in general but the local timeline is hidden in the search tab / communicaty whereas the federated timeline is simply absent. I will use therefore Tusky or the web version for the time being.
+Clunky. I am trying to set up two accounts & can't for the life of me figure out how to switch between them. The add account option just takes me back to the login screen.
+Made a mistake with my email creating my account. There is no back button. Created a new account on my PC but the app is still asking me to verify my mistaked account from the email. Even after uninstalling and reinstalling it keeps asking me.
+Lame
+"Loving the UI. I guess I missed all the new user surge drama! The app works fabulously for me. Signup was quick, easy and painless."
+"Can't create a new account because it tells me there's an error but doesn't tell me why, so IDK if my username is taken or my password doesn't meet their standards or what."
+A few bugs upon sign in. Got disgusted
+Not as expected
+"Cannot register an email. ""The access token is invalid"". No verification email sent, app cannot be used to register another account even after a reinstall. Literally unusable."
+"I feel like I gotta balance out all those one star reviews from the impatient people who don't understand the inevitable hitches that will occur when a system experiences such a sudden and massive boost in users. I arrived a few days after the big rush, and had a smooth sign up experience."
+Good app but where's local and federated tabs?! Kinda useless without that
+The app is a little barebones but it's functional and fluid. I prefer it over using the mobile website.
+"Unlike other users, I had no issue creating an account, the confirmation email arrived promptly and the link inside worked. However I'm now stuck. I can't upload any photos in posts and also I can't find a ""feed"" of any sort. I'm really confused on why it forces you to join a server before your account is fully activated and also, where are the posts on said server? How do I find the content? Interact with anyone? All the home page shows me is an empty list. Enthusiastic but confused."
+Mastodon is a trainwreck. I joined it.I didn't like the server I was on. At the time there wasn't much a selection of servers. I ask how to change servers. I get kicked off the server. It messes up my account. I try to sign up for a new account. Mastodon won't let me.
+Never used Twitter much anyway but this app seems interesting so far. Fairly confusing and needs some work but has potential.
+"I was kicked out of Twitter for saying ""death to dictatorship"" , I hope this app will not use such dumb algorithms"
+Came here from NDTV post about Twitter.. Really this one is better than Twitter...
+"Installing and setting up an account went smoothly. One hour later the app wouldn't load, I kept getting a timeout error on every feed (including my own) and then got logged out. Tried reinstalling and resetting the password, but a full day's wait later there's still no sign of any reset email."
+"Unistalled 2mn after with permanent account deleting. Unbelievable hassle while signing up, you're forced to choose whatever proposed server even it's not what u really want, once you're in finally every pull operation is timed out, nothing appearing. Searched for some topics nothing appeared. Anyway in general this app is a very poor unseccusful imitation features of Twitter. Not recommended at all."
+"Absolutely useless. No matter which button I click on the first screen, I'm taken to the 'create a new account' screen, therefore I can't log in with my existing account."
+Wait for big smooth performa. Go masto go 💙
+Keep getting timeouts. Not really surprising. But the UI is okay.
+The email thing... Still haven't received it. Hours later. Not a great start 🙄🙄
+"When you get into the app, it doesn't even give you options to join groups."
+"Cool and fast app, said noone ever. It appears that it didn't scale well"
+Account creation and login is a hot mess.
+Search works well (and is certainly better than Tusky in that respect). But this app is missing bookmarks and lists functionality.
+the app is really good but we need a dm and pin things our accs
+Literally can't understand how this works. Signed up on the web and I'm getting 403 errors popping up when I try to log in via the app
+Tooo much bugs
+Twitter should hire the engineers from you guys to reach same level of UI and smoothness in android.
+I can't get past the sign-up page.
+connect all communities in one immediately and you are the number one on the globe
+This app has been incredibly unreliable so far. Getting lots of loading errors. Hope they can improve things if it's going to be a viable alternative to the hellscape. Update: Seems to be doing better!
+not up to the mark content
+Nice alternative. More of a tool to follow a close knitted group.
+"Once you're used to how it works, it's great!"
+Both buttons on the home screen on the app lead to the same page. I'm already signed up (via the web) but can't get in via the app. Ideas? I know you're possibly overwhelmed by those migrating across from the blue bird but would like to see this fixed so I can use the app and not a web client.
+Good
+"Forbidden, Timeout, Too many attempts.. can't do anything."
+clearly ment for a very specific users. not for general use.
+I ask you to put a layout size option within the app...
+Tried and tried. Never sent the confirmation email
+"It's just good, works totally fine. I would love to see a federated timeline"
+"Created my account with this app. Can now login on PC, but NOT with the app that I created the account with. It doesn't make any sense to reset my password on this when I know that it works on the PC. It's hard to make a jump to this platform if I cannot login on both PC and the app."
+"Waiting for a new up to date UI for android, also there needs to be a true black theme"
+Most negative reviews here seem to be more to do with not being able to join a server rather than the app itself.
+
+Identify and summarize the most significant event raised by this set of reviews extracted from mobile app repositories.

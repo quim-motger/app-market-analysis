@@ -1,0 +1,4 @@
+Copy
+I got it to see how good it is
+
+Identify and summarize the most significant event raised by this set of reviews extracted from mobile app repositories.
