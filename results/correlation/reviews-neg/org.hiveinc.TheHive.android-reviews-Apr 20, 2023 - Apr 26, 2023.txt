@@ -1,0 +1,6 @@
+"I really want to like this app. It's got some good features, including a strong NSFW guideline, but aldo....asks don't work. Mute doesn't work. DMs are a nightmare + there's no group chat function. And there's no desktop version. I'm keeping my account for now, but there's a lot of work needed to make this really usable."
+"I really enjoyed myself during beta but unfortunately it seems that this app does not want to work for me, in any form."
+"App bugged while creating account, I cannot access my own account because is not finished. Reached support, no response."
+I had to close and reopen the app 5 times just to create an account because there'd always be a new bug on every step of the process.
+
+Identify and summarize the most significant event raised by this set of reviews extracted from mobile app repositories.

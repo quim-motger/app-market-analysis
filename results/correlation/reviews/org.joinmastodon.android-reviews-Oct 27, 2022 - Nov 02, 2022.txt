@@ -1,0 +1,28 @@
+"Terrible experience, long sign-up process, slow server responses and buggy UI. Might try again when it's polished. Clean UI though."
+very very discrimination based community.. this is not a platform for Minority Social media users STAY AWAY
+Currently I get timeout errors constantly and nothing loads
+A great twitter alternative
+"Feels like a positive move in social media posting. I love the setup, but I've knocked off one star because of the slightly shonky visual presentation (eg. YouTube link thumbnails get squashed up and cropped badly in the news feed). Early days though, and I'm expecting improvements as time goes by."
+"Missing direct messages functionality, missing translations, missing selection of toot language. Sadly web version is performing a lot better"
+"Registered without incident and was able to log in normally from several PCs and even from Chrome on my Android browser, but when trying to sign in with the Android app, it insists that my username and/or password are incorrect, with no useful way to resolve whatever problem exists. Makes no sense and hopefully it will be fixed."
+here to reignite this app while twitter burns in flames because of elon.
+"I tried to install this app, and was immediately prompted with a request for read and write access to ""Everything"". Why on earth does it need that? I'm not using this app with such barn-door-open permissions."
+Twitter rival?! I will give it a try even if it has fewer functionalities.
+"Lookin pretty appealing after the ""freezepeach"" mfs on twitter came after Elon wasted his moeny lol"
+"O login é pior do que o soneto, pra além ser uma aventura logar"
+"I can see a lot of positives, but there is so much here that is user-unfriendly. The sign-up process is horrible (finding no suitable servers for me, I tried to pick the general c.im and was told it wasn't valid, among many other obstructions). There's no automatic reformat of links, so the user must ensure https is included in the links they post. I wish Mastodon every success in benefitting from Twitter's mismanagement, but these and other problems are going to send people straight back out."
+"It lacks any means to view the federated timeline, thus rendering discovery browsing impossible. Don't bother. Download Tusky instead."
+Created an account on Web and now I cant log in with that account on the app. The Web version never asked me to pick a server. What is going on please??
+Which one is the US server?
+"Would not let you change, see or edit verification email address when creating account"
+Cant send a direct message tp users
+"I don't make it to log on, while my account works via web access."
+"Used the app for a while in the past, nice to see there is a first party app now!"
+Multi-account feature doesnt seem to work correctly: cant login 2 accounts on same instance
+"Couldn't even create an account as it kept giving 404 errors. Apparently there are no communities related to science, which is the main reason I used twitter. Not sure if thats actually true or if that was just another bug with the community search tool? Also it asked me to take some time to read the community rules, but the page was just blank. Not very impressive tbh."
+"A good first version, but we really need the option to browse the local and federated timelines. Switching accounts is not obvious, and for a while I thought it wasn't possible. I'll keep using the other apps but I'm looking forward to updates to this one."
+"Clean UI. Nice entry level app for those used to bird site. But where is the access to the Fediverse? Almost impossible to use this to follow others from across multiple instances, which sort of defeats the point and one of the best features of Mastodon. Search sort of works for this, but isn't great, often fails to find users on other instances."
+Federal is missing. 50% worthless. The rest works well.
+No uk content. Too left wing in general. Needs to be less of an echo chamber
+
+Identify and summarize the most significant event raised by this set of reviews extracted from mobile app repositories.

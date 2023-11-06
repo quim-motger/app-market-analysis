@@ -1,0 +1,52 @@
+Reine Katastrophe!
+"This used to work fine over the summer. But I got a new phone and didn't install Mastodon until recently, and now approving follower requests is broken. I receive notification of requests, but there seems to be no way to approve them anymore. What's going on?"
+"I was looking forward to using this app but I guess I can't even try it out. I tried signing up, then it said it timed out, I try signing up AGAIN, only for it to tell me I've already signed up. Then, it doesn't let me log in with the account information I've already given, so I give up. Uninstalled it."
+Needs a hockey space
+Impossible to create a new account.
+Installed. Said it sent confirmation ema. Never got it. Hit RESEND. Never got it. Uninstalled!!
+"Cannot register an email. ""The access token is invalid"". No verification email sent, app cannot be used to register another account even after a reinstall. Literally unusable."
+Extremely clunky
+"I have verified my email, and can post and follow, but everything I click into app, it redirects me to ""verify email"" in my inbox, so access is a pain."
+"Unistalled 2mn after with permanent account deleting. Unbelievable hassle while signing up, you're forced to choose whatever proposed server even it's not what u really want, once you're in finally every pull operation is timed out, nothing appearing. Searched for some topics nothing appeared. Anyway in general this app is a very poor unseccusful imitation features of Twitter. Not recommended at all."
+"I chose home.social as my server, Not listed in the app, yet works fine in a browser! Hence 1 star (I'd give the app zero if possible. Why no up to date list of servers?"
+Sign-in timeout when creating a .lol account
+"Waiting for a new up to date UI for android, also there needs to be a true black theme"
+not user friendly. You have to jump through a lot of hoops to use this app...i have tried it repeatedly over the years and just cant make myself like it. no smooth flow. Its will get a following..but never be for most people. i choose to have no social media over this ( all the mainstream apps are not even an option 🤮)
+"Could not figure out how to sign up, or how to find a server for my interests. Every search turned up no results, saying it ""doesn't appear to be a Mastodon instance."""
+"Forbidden, Timeout, Too many attempts.. can't do anything."
+Horrible app. Hard to.get anywhere. Sign up/Log in take you to the same places. Would not recommend to new users.
+"Able to create some accounts on different servers, when I want to create the 3rd one the confirmation email doesn't come, and I can't close the confirmation email page to go back to my previous accounts, help"
+Frustrating to sign up. Just awefull.
+"I'd liken the way this app works to a Discord server, as you're basically just using isolated servers instead of one long universal feed. The problem is, the decentralized nature of Mastodon actually makes the app far less attractive than Twitter. There is almost no way of following individuals over multiple servers, the sign up function is clunky (you need to make a new username per 'server') & there's no real guide on how to best get started. Use Discord or Reddit, there's better options."
+Will not let me sign in to app (incorrect email or password) even though the same credentials let me sign in on their website
+"Simply Awful Installed, signed up, info being reviewed, authorized, account authorized,still can't log in, sorry but not worth the hassle. The servers must be complete toss, trying to delete the account and it's just non responsive.. Top 4 app, is this a misleading joke????"
+"Couldn't get past the portion of creating a profile. ""Too many requests"". This happened for 2 days in a row. I gave up."
+"Can't verify account. Says it sent a verification email, but I've tried to resend it several times and it's not showing up. I've gone through my spam folder but it's not there. Gonna be hard to get users from Twitter this way."
+Literally can't understand how this works. Signed up on the web and I'm getting 403 errors popping up when I try to log in via the app
+"Very poor, delete and block people without doing a full investigation. Fair to say there's a legal case heading thier way from the news on twitter"
+"extremely slow, getting a timeout error for everything I'm trying to do"
+Very buggy
+Nice design in general but the local timeline is hidden in the search tab / communicaty whereas the federated timeline is simply absent. I will use therefore Tusky or the web version for the time being.
+A few bugs upon sign in. Got disgusted
+Clunky. I am trying to set up two accounts & can't for the life of me figure out how to switch between them. The add account option just takes me back to the login screen.
+"I am a simple, average user. I expect easy creation of an account. I don't care not do I bother to know the reason for joining a server, just get me an account. Why not Google, Apple,etc. login? This process needs to be simpler..."
+"The app is way glitchy. It won't let me log in, it keeps prompting me to start a new account."
+Trying to create an account but it was impossible. I only recieve the message 404...
+Useless.
+Very poor moderation and poor security.
+Doesn't let me log into an existing account
+"No rating as i never picked a ""server"". No search feature? Im lost, honestly."
+"Can't create a new account because it tells me there's an error but doesn't tell me why, so IDK if my username is taken or my password doesn't meet their standards or what."
+"The login button does the same thing as the sign up button, so I can't login with my existing account."
+Is this where all the multi colored haired freaks flocked too?
+Tried and tried. Never sent the confirmation email
+Made a mistake with my email creating my account. There is no back button. Created a new account on my PC but the app is still asking me to verify my mistaked account from the email. Even after uninstalling and reinstalling it keeps asking me.
+Mastodon is a trainwreck. I joined it.I didn't like the server I was on. At the time there wasn't much a selection of servers. I ask how to change servers. I get kicked off the server. It messes up my account. I try to sign up for a new account. Mastodon won't let me.
+"Installing and setting up an account went smoothly. One hour later the app wouldn't load, I kept getting a timeout error on every feed (including my own) and then got logged out. Tried reinstalling and resetting the password, but a full day's wait later there's still no sign of any reset email."
+"I can't change the confirmation email to actually access the app. No matter if I uninstal, I can't change a prior choice."
+"Terrible from a security perspective, and from a UX one too. Just stay away from this dangerous app!"
+"You physically cannot log in on the app? I'm able to log in through my browser just fine, but when the app opens the link to log in to my browser it keeps saying that my info is wrong, when it's not."
+Worse ever need more work need more improve
+"Don't think about wasting your time with this app. When you go to sign up, you don't get a confirmation email at all, so you can't even sign up. I waited a few minutes and also hit ""Resend"" a few times, but nothing. Such a waste of time."
+
+Identify and summarize the most significant event raised by this set of reviews extracted from mobile app repositories.

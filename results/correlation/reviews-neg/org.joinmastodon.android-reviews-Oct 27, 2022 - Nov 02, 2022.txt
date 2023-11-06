@@ -1,0 +1,16 @@
+"I don't make it to log on, while my account works via web access."
+very very discrimination based community.. this is not a platform for Minority Social media users STAY AWAY
+"Terrible experience, long sign-up process, slow server responses and buggy UI. Might try again when it's polished. Clean UI though."
+"O login é pior do que o soneto, pra além ser uma aventura logar"
+"Couldn't even create an account as it kept giving 404 errors. Apparently there are no communities related to science, which is the main reason I used twitter. Not sure if thats actually true or if that was just another bug with the community search tool? Also it asked me to take some time to read the community rules, but the page was just blank. Not very impressive tbh."
+Created an account on Web and now I cant log in with that account on the app. The Web version never asked me to pick a server. What is going on please??
+No uk content. Too left wing in general. Needs to be less of an echo chamber
+Cant send a direct message tp users
+"Clean UI. Nice entry level app for those used to bird site. But where is the access to the Fediverse? Almost impossible to use this to follow others from across multiple instances, which sort of defeats the point and one of the best features of Mastodon. Search sort of works for this, but isn't great, often fails to find users on other instances."
+"It lacks any means to view the federated timeline, thus rendering discovery browsing impossible. Don't bother. Download Tusky instead."
+"Registered without incident and was able to log in normally from several PCs and even from Chrome on my Android browser, but when trying to sign in with the Android app, it insists that my username and/or password are incorrect, with no useful way to resolve whatever problem exists. Makes no sense and hopefully it will be fixed."
+Currently I get timeout errors constantly and nothing loads
+"Would not let you change, see or edit verification email address when creating account"
+"I tried to install this app, and was immediately prompted with a request for read and write access to ""Everything"". Why on earth does it need that? I'm not using this app with such barn-door-open permissions."
+
+Identify and summarize the most significant event raised by this set of reviews extracted from mobile app repositories.
