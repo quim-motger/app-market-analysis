@@ -61,7 +61,7 @@ for i,app in enumerate(data):
 		for review in app['reviews']:
 			if is_date_in_interval(review['at'], date):
 				date_count[j] += 1
-				date_sum[j] += review['score']
+				date_sum[j] += review['score'] - 1 # normalized from [1,5] to [0,4]
 
 	for j, result in enumerate(date_sum):
 		if date_count[j] > 0:
