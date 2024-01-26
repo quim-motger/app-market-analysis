@@ -16,7 +16,7 @@ We selected a subset of microblogging apps which included Twitter, Mastodon, and
 
 | App name      | App package                 | #reviews |
 |---------------|-----------------------------|----------|
-| Twitter       | com.twitter.android         | 168,335  |
+| X (Twitter)   | com.twitter.android         | 168,335  |
 | Truth Social  | com.truthsocial.android.app | 4,580    |
 | VK            | com.vkontakte.android       | 3,677    |
 | Hive Social   | org.hiveinc.TheHive.android | 3,054    |
